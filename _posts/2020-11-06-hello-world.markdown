@@ -3,7 +3,7 @@ layout: post
 title: "My greeting"
 date: 2017-11-06 00:00:00 +1030
 description: This is the first post of my blog. I will share a little bit about myself and motivations lead to this blog.
-img: i-rest.jpg # Add image post (optional)
+img: 20201106-hello-world/my_gang.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [age-30, birthday, story]
 ---
