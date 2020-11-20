@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why we should not use Excel to view Genomic data files"
+title: "Why not use Excel to view Genomic data files"
 date: 2020-11-20 00:00:00
 description: Excel misreads some gene names as DateTime values. What is the consequence?
 img: 
